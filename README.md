@@ -1,12 +1,20 @@
-# React + Vite
+📸 React Pixabay Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Link -> https://pixabay-clone-ten-xi.vercel.app/
 
-Currently, two official plugins are available:
+A simple React application that replicates the core features of Pixabay, allowing users to:
+	•	🔍 Search for images by keyword
+	•	📂 Sort results (e.g., by relevance, latest, etc.)
+	•	⚡ Built with React + Pixabay API for fast and responsive image fetching
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
+	•	Clean and responsive UI
+	•	Real-time search functionality
+	•	Sorting options for better image discovery
+	•	Uses the free Pixabay API
 
-## Expanding the ESLint configuration
+🚀 Tech Stack
+	•	React (Hooks & Functional Components)
+	•	CSS for styling
+	•	Pixabay API for image data
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
